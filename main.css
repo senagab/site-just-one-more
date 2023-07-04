@@ -117,6 +117,7 @@ section {
 
 section h2 {
     margin-bottom: 16px;
+    font-size: 32px;
 }
 
 section {
@@ -139,6 +140,10 @@ section p {
 /* .container .items {
     display: flex;
 } */
+
+#products .container {
+    justify-content: center;
+}
 
 #products .container {
     justify-content: center;
