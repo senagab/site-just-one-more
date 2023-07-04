@@ -20,7 +20,6 @@ section h3,
 form button {
     font-family: 'Lora', serif;
     font-weight: bold;
-    font-size: 32px;
 }
 
 section {
@@ -57,6 +56,7 @@ header nav li {
     display: inline;
     margin-left: 16px;
     font-size: 20px;
+    font-weight: 500;
 }
 
 header nav li a {
@@ -204,14 +204,14 @@ form textarea {
 }
 
 form button {
-    background-color: #182c61;
-    color: #ecf0f1;
-    border: none;
+    background-color: #8FB5FF;
+    color: #fff;
+    border: 2px solid #8FB5FF;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #20397d;
+    text-decoration: underline;
 }
 
 input:focus, textarea:focus {
