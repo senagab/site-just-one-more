@@ -209,9 +209,8 @@ form textarea {
 }
 
 form button {
-    background-color: #8FB5FF;
+    background-color: #333;
     color: #fff;
-    border: 2px solid #8FB5FF;
     cursor: pointer;
 }
 
