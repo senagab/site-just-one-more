@@ -137,10 +137,6 @@ section p {
     padding-top: 60px;
 }
 
-/* .container .items {
-    display: flex;
-} */
-
 #products .container {
     justify-content: center;
 }
