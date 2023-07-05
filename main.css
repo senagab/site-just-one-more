@@ -149,7 +149,8 @@ section p {
     justify-content: center;
 }
 
-.product-header {
+.product-header,
+.contact-header {
     display: block;
     padding: 20px;
     text-align: center;
@@ -230,4 +231,8 @@ footer {
     background-color: #8FB5FF;
     color: #fff;
     padding: 16px 0;
+}
+
+.mt-60 {
+    margin-top: 60px;
 }
