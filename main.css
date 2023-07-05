@@ -107,6 +107,10 @@ section .container {
     margin-right: 8px;
 }
 
+.brands-list li a {
+    text-decoration: none;
+}
+
 section .container {
     align-items: flex-start;
 }
