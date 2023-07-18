@@ -166,7 +166,7 @@ section p {
     text-align: center;
 }
 
-.item h4:hover {
+.item:hover {
     color: #8fb5ff;
 }
 
